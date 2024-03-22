@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaf16a60-7b43-476c-a93f-296fcf79520d" name="Changes" comment="Tutorial 3, step 6 onwards to be completed">
-      <change afterPath="$PROJECT_DIR$/tutorial2/ci583-lists-master/src/ci583/labs/test/SetTest.java" afterDir="false" />
+    <list default="true" id="eaf16a60-7b43-476c-a93f-296fcf79520d" name="Changes" comment="Tutorial 3, all tests passing.">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial2/ci583-lists-master/src/ci583/labs/lists/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial2/ci583-lists-master/src/ci583/labs/lists/Set.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,9 @@
       <workItem from="1710608675802" duration="1417000" />
       <workItem from="1710610167670" duration="4581000" />
       <workItem from="1710887563417" duration="1531000" />
-      <workItem from="1711105382162" duration="614000" />
+      <workItem from="1711105382162" duration="2301000" />
+      <workItem from="1711109588628" duration="14000" />
+      <workItem from="1711109610535" duration="259000" />
     </task>
     <task id="LOCAL-00001" summary="Tutorial 2, all tests passing">
       <option name="closed" value="true" />
@@ -100,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710889566227</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Tutorial 3, all tests passing.">
+      <option name="closed" value="true" />
+      <created>1711106309602</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711106309602</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +119,7 @@
     <MESSAGE value="Tutorial 2, all tests passing" />
     <MESSAGE value="Tutorial 3, all tests passing" />
     <MESSAGE value="Tutorial 3, step 6 onwards to be completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tutorial 3, step 6 onwards to be completed" />
+    <MESSAGE value="Tutorial 3, all tests passing." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tutorial 3, all tests passing." />
   </component>
 </project>
