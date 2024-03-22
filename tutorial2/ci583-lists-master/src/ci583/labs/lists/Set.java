@@ -46,6 +46,42 @@ public class Set extends LinkedCollection {
         }
     }
 
-    //currently on step 6..
+    //union needs to add all elements of the other set to this set
+    public Set union(Set s2) {
+        Set s1 = this; //get the current set, (a copy of it)
+        Node n = s2._head; //get the first element of passed through set
+        while (n != null) { //whilst not at the end of the set
+            if(!s1.member(n.data)) { //if the element is not already in the current set
+                s1.insert(n.data);//add it to the current set
+            }
+            n = n.next; //if not, move on
+        }
+        return s1;
+    }
 
+    //intersection needs to return a set of all elements that are in both sets
+
+    public Set intersection(Set s2) {
+        Set set = new Set(); //create a new set to store the intersection
+        Node n = s2._head; //get the first element of passed through set
+        while (n != null) { //whilst not at the end of the set
+            if(this.member(n.data)) { //if the element is not already in the current set
+                set.insert(n.data);//add it to the current set
+            }
+            n = n.next; //if not, move on
+        }
+        return set;
+    }
+
+    public Set difference(Set s2) {
+        Set set = new Set(); //create a new set to store the difference
+        Node n = _head; //get the first element of passed through set
+        while (n != null) { //whilst not at the end of the set
+            if(!s2.member(n.data)) { //if the element is not already in the current set
+                set.insert(n.data);//add it to the current set
+            }
+            n = n.next; //if not, move on
+        }
+        return set;
+    }
 }

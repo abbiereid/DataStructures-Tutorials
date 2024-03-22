@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaf16a60-7b43-476c-a93f-296fcf79520d" name="Changes" comment="Tutorial 2, all tests passing">
-      <change afterPath="$PROJECT_DIR$/tutorial2/ci583-lists-master/src/ci583/labs/lists/LinkedCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial2/ci583-lists-master/src/ci583/labs/lists/Set.java" afterDir="false" />
+    <list default="true" id="eaf16a60-7b43-476c-a93f-296fcf79520d" name="Changes" comment="Tutorial 3, step 6 onwards to be completed">
+      <change afterPath="$PROJECT_DIR$/tutorial2/ci583-lists-master/src/ci583/labs/test/SetTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tutorial2/ci583/labs/lists/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tutorial2/ci583/labs/lists/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial2/ci583-lists-master/src/ci583/labs/lists/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial2/ci583-lists-master/src/ci583/labs/lists/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial2/ci583-lists-master/src/ci583/labs/lists/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial2/ci583-lists-master/src/ci583/labs/lists/Set.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +65,8 @@
       <workItem from="1710607481612" duration="956000" />
       <workItem from="1710608675802" duration="1417000" />
       <workItem from="1710610167670" duration="4581000" />
-      <workItem from="1710887563417" duration="1431000" />
+      <workItem from="1710887563417" duration="1531000" />
+      <workItem from="1711105382162" duration="614000" />
     </task>
     <task id="LOCAL-00001" summary="Tutorial 2, all tests passing">
       <option name="closed" value="true" />
@@ -85,7 +84,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710626791984</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tutorial 3, step 6 onwards to be completed">
+      <option name="closed" value="true" />
+      <created>1710889554613</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710889554613</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Tutorial 3, step 6 onwards to be completed">
+      <option name="closed" value="true" />
+      <created>1710889566227</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710889566227</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +108,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tutorial 2, all tests passing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tutorial 2, all tests passing" />
+    <MESSAGE value="Tutorial 3, all tests passing" />
+    <MESSAGE value="Tutorial 3, step 6 onwards to be completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tutorial 3, step 6 onwards to be completed" />
   </component>
 </project>
